@@ -1,4 +1,0 @@
-include ':sample',
-        ':konfigure',
-        ':konfigure-android',
-        ':konfigure-firebase'
